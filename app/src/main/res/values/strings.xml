@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LatticeInovations</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="location">Location</string>
+    <string name="google_place_api">AIzaSyCbd2nDcgibUlsxYDjCS9Q-VDtiTXgWmR8</string>
+</resources>
